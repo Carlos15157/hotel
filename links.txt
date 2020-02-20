@@ -8,4 +8,4 @@ Lazer                       lazer.html
 Gastronomia                 gastronomia.html
 Eventos                     eventos.html
 Reservas                    reservas.html
-Localizção                  localizacao.html
+Localizção                  localizacao.html  
